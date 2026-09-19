@@ -1,0 +1,6 @@
+{
+  "name": "BrightSpark Electrical",
+  "description": "Professional electrical services for homes and properties in Chiswick and London. Rated 4.9 from 444 reviews. Call +44 20 7523 5373.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
